@@ -50,3 +50,9 @@ potential is lost across the funnel.
 This project demonstrates real-world funnel analysis, revenue attribution,
 and business-driven insights suitable for entry-level Data Analyst roles.
 
+---
+
+## 👤 Author
+**Akshay Kangude**  
+Aspiring Data Analyst | Python • SQL • Power BI
+
